@@ -1,6 +1,6 @@
 # アプリケーションクラスの設定
 
-[< Previous](03_ExecFunc.md) [Home](00_Indices.md) [Next >](05_CreateProject.md)
+[< Previous](03_ExecFunc.md) [Home](00_Indices.md) [Next >](05_EditForms.md)
 
 ## 関数の分割とエントリポイントの整理
 
@@ -64,4 +64,4 @@ class GASExampleProj {
 
 `main.gs`の`__entryPoint`関数を実行すると`GASExampleProj::main`が実行されます。この関数がアプリケーションのメイン部分となります。
 
-[< Previous](03_ExecFunc.md) [Home](00_Indices.md) [Next >](05_CreateProject.md)
+[< Previous](03_ExecFunc.md) [Home](00_Indices.md) [Next >](05_EditForms.md)
