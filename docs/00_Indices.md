@@ -9,3 +9,4 @@
  - 第二章: 面倒なことはGASにやらせよう
     - [Googleフォームを編集する](05_EditForms.md)
     - [スプレッドシートを編集する](06_EditSheet.md)
+    - [トリガーによる自動化](07_Trigger.md)

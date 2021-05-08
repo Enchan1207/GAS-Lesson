@@ -27,7 +27,7 @@
 // main.gs
 // GASExampleProj
 //
-// @2021 EncahtCode.
+// @2021 EnchantCode.
 //
 
 // Application entrypoint (on boot by source editor)
@@ -44,7 +44,7 @@ function __enrtyPoint(){
 // GASExampleProj.gs
 // GASExampleProj
 //
-// @2021 EncahtCode.
+// @2021 EnchantCode.
 //
 
 class GASExampleProj {
