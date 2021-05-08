@@ -1,6 +1,6 @@
 # 関数の実行
 
-[< Previous](02_CreateProject.md) [Home](00_Indices.md) [Next >](04_CreateProject.md)
+[< Previous](02_CreateProject.md) [Home](00_Indices.md) [Next >](04_DefAppClass.md)
 
 ## ごあいさつ
 
@@ -35,4 +35,4 @@ JSとは異なり、GASは「関数」を一つの実行単位として扱って
 
 二つ目の関数も実行することができました。
 
-[< Previous](02_CreateProject.md) [Home](00_Indices.md) [Next >](04_CreateProject.md)
+[< Previous](02_CreateProject.md) [Home](00_Indices.md) [Next >](04_DefAppClass.md)

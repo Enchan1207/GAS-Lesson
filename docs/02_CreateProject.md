@@ -1,4 +1,4 @@
-# プロジェクトの作成・実行
+# プロジェクトの作成
 
 [< Previous](01_Overview.md) [Home](00_Indices.md) [Next >](03_ExecFunc.md)
 
