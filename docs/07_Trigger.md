@@ -1,6 +1,6 @@
 # トリガーによる自動化
 
-[< Previous](06_EditSheet.md) [Home](00_Indices.md) [Next >](08_Trigger.md)
+[< Previous](06_EditSheet.md) [Home](00_Indices.md) [Next >](08_NumGame.md)
 
 ## GASの本領発揮
 
@@ -83,4 +83,4 @@ ScriptApp.getProjectTriggers().forEach((trigger) => {
 ```
 
 
-[< Previous](06_EditSheet.md) [Home](00_Indices.md) [Next >](08_Trigger.md)
+[< Previous](06_EditSheet.md) [Home](00_Indices.md) [Next >](08_NumGame.md)
